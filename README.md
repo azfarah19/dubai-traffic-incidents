@@ -52,6 +52,7 @@ Analyze traffic incidents in Dubai (77K+ records) to identify patterns in **caus
 
 ## 🌍 Author
 Farah Azema  
-[LinkedIn](www.linkedin.com/in/farah-azema-490a691b9) | [GitHub](https://github.com/azfarah19/dubai-traffic-incidents/) 
+[LinkedIn](https://www.linkedin.com/in/farah-azema-490a691b9/) | [GitHub](https://github.com/azfarah19/dubai-traffic-incidents/) 
 
 ---
+
