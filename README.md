@@ -1,11 +1,11 @@
 # 🚦 Dubai Traffic Incidents – Portfolio Project
 
 ## 🎯 Objective
-Analyze traffic incidents in Dubai (77K+ records) to identify patterns in **causes**, **timing**, and **severity**, and provide recommendations to improve road safety and traffic flow.
+Analyze traffic incidents in Dubai (77K+ records between November 2024 and September 2025.) to identify patterns in **causes**, **timing**, and **severity**, and provide recommendations to improve road safety and traffic flow.
 
 ## Data
 - **Source:** [Dubai Pulse – Traffic Incidents](https://www.dubaipulse.gov.ae)
-- **Size:** 77,084 records
+- **Size:** 77,084 records 
 - **Columns:**  
   - `acci_id`: Unique incident ID  
   - `acci_time`: Date and time of incident  
@@ -36,7 +36,7 @@ Analyze traffic incidents in Dubai (77K+ records) to identify patterns in **caus
    - Insights + Recommendations (both Arabic & English).  
 
 ##  Key Findings
-- **40% of incidents occur during peak hours (6–9 AM and 12–3 PM).**  
+- **The most dangerous hour is 2 PM (14:00), with 4,574 incidents.**  
 - **Most common incident type:** Light vehicle breakdown (≈10K cases).  
 - **Minor incidents:** 83% of the total but still cause traffic disruptions.  
 
@@ -55,4 +55,5 @@ Farah Azema
 [LinkedIn](https://www.linkedin.com/in/farah-azema-490a691b9/) | [GitHub](https://github.com/azfarah19/dubai-traffic-incidents/) 
 
 ---
+
 
